@@ -1,0 +1,10 @@
+.logo_place_header {
+    /* так логотип был назван в папке images */
+   background-image: url("../../../images/logo_place_header.svg");
+   display: flex;
+   position: absolute;
+   height: 32px;
+   width: 183px;
+   top: 30px;
+   left: 64px;
+ } 

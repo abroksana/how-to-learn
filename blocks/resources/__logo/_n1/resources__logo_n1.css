@@ -1,9 +1,9 @@
 .resources__logo_n1 {
-    background-image: url("../../../../images/resources-n1.svg");
-    opacity: 1;
-    transition: .5s;
+  opacity: 1;
+  transition: .5s;
 }
+
 .resources__logo_n1:hover {
-    opacity: .5;
-    transition: .5s;
-  } 
+  opacity: .5;
+  transition: .5s;
+}
